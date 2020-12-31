@@ -1,0 +1,28 @@
+{
+    "name": "MaqueenPlus",
+    "version": "1.4.0",
+    "description": "",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "maqueenplus.ts",
+        "enums.d.ts",
+        "maqueenIR.cpp",
+        "ReceiverIR.cpp",
+        "NecIR.cpp",
+        "ReceiverIR.h",
+        "RemoteIR.h",
+        "shims.d.ts",
+        "_locales/zh-cn/MaqueenPlus-strings.json",
+        "_locales/zh-tw/MaqueenPlus-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
