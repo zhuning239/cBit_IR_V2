@@ -7,7 +7,7 @@
     },
     "files": [
         "README.md",
-        "maqueenplus.ts",
+        "cBit-IRV2.ts",
         "enums.d.ts",
         "maqueenIR.cpp",
         "ReceiverIR.cpp",
