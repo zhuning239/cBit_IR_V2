@@ -1,6 +1,6 @@
 {
-    "name": "MaqueenPlus",
-    "version": "1.4.0",
+    "name": "cBit-IR V2",
+    "version": "1.2.0",
     "description": "",
     "dependencies": {
         "core": "*"
@@ -15,8 +15,8 @@
         "ReceiverIR.h",
         "RemoteIR.h",
         "shims.d.ts",
-        "_locales/zh-cn/MaqueenPlus-strings.json",
-        "_locales/zh-tw/MaqueenPlus-strings.json"
+        "_locales/zh-cn/strings.json",
+        "_locales/zh-tw/strings.json"
     ],
     "testFiles": [
         "test.ts"
