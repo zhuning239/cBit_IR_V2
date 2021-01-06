@@ -72,7 +72,7 @@ namespace cBitIR
     }
     
     //% weight=5
-    //% group="micro:bit(V2)"
+    //% group="micro:bit(v2)"
     //% blockId=clb_IR_KeyValue block="clb_IR_KeyValue|value %value"
     export function clb_IR_KeyValue(value: enIRkey): number {
         return value;
